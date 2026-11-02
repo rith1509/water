@@ -1,0 +1,1202 @@
+[
+  {
+    "student_id": "RS255161_001",
+    "proposed_solution": "Rooftop rainwater harvesting tanks on department buildings",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS252325_002",
+    "proposed_solution": "Desilt and re-slope existing drains before monsoon",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS241857_003",
+    "proposed_solution": "Desilt and re-slope existing drains before monsoon",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS228750_004",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS266831_005",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 1,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS227925_006",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS228539_007",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS219642_008",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS243167_009",
+    "proposed_solution": "Recharge pits near Govind canteen to absorb runoff",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS238058_010",
+    "proposed_solution": "Recharge pits near Govind canteen to absorb runoff",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS258086_011",
+    "proposed_solution": "Desilt and re-slope existing drains before monsoon",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS247029_012",
+    "proposed_solution": "Desilt and re-slope existing drains before monsoon",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS234912_013",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS214187_014",
+    "proposed_solution": "Covered corridors with side gutters in Govind Bhawan",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS218536_015",
+    "proposed_solution": "Recharge pits near Govind canteen to absorb runoff",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS226058_016",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS241703_017",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS211757_018",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS262102_019",
+    "proposed_solution": "Use tennis court runoff to recharge groundwater via filter pits",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS237863_020",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 1,
+    "cost_estimate_category": "Very High"
+  },
+  {
+    "student_id": "RS265589_021",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 1,
+    "cost_estimate_category": "Very High"
+  },
+  {
+    "student_id": "RS225049_022",
+    "proposed_solution": "Covered corridors with side gutters in Govind Bhawan",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS235426_023",
+    "proposed_solution": "Rooftop rainwater harvesting tanks on department buildings",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS255485_024",
+    "proposed_solution": "Recharge pits near Govind canteen to absorb runoff",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS252218_025",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS241129_026",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS257066_027",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS251007_028",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 1,
+    "cost_estimate_category": "Very High"
+  },
+  {
+    "student_id": "RS261703_029",
+    "proposed_solution": "Percolation trenches along SAC path leading to pool/OAT",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS219020_030",
+    "proposed_solution": "Percolation trenches along SAC path leading to pool/OAT",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS218269_031",
+    "proposed_solution": "Reuse harvested roof water for gardening and toilet flushing",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS229073_032",
+    "proposed_solution": "Reuse harvested roof water for gardening and toilet flushing",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS238421_033",
+    "proposed_solution": "Percolation trenches along SAC path leading to pool/OAT",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS239605_034",
+    "proposed_solution": "Percolation trenches along SAC path leading to pool/OAT",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS252579_035",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS216007_036",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS212313_037",
+    "proposed_solution": "Use tennis court runoff to recharge groundwater via filter pits",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS229383_038",
+    "proposed_solution": "Percolation trenches along SAC path leading to pool/OAT",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS231091_039",
+    "proposed_solution": "Percolation trenches along SAC path leading to pool/OAT",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS233730_040",
+    "proposed_solution": "Percolation trenches along SAC path leading to pool/OAT",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS218059_041",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS233921_042",
+    "proposed_solution": "Use tennis court runoff to recharge groundwater via filter pits",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS227859_043",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS262533_044",
+    "proposed_solution": "Covered corridors with side gutters in Govind Bhawan",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS216557_045",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS263777_046",
+    "proposed_solution": "Reuse harvested roof water for gardening and toilet flushing",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS224221_047",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "Very High"
+  },
+  {
+    "student_id": "RS242650_048",
+    "proposed_solution": "Recharge pits near Govind canteen to absorb runoff",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS232965_049",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS241379_050",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS236145_051",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS247476_052",
+    "proposed_solution": "Percolation trenches along SAC path leading to pool/OAT",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS249164_053",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS258599_054",
+    "proposed_solution": "Use tennis court runoff to recharge groundwater via filter pits",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS262492_055",
+    "proposed_solution": "Covered corridors with side gutters in Govind Bhawan",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS243638_056",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS267663_057",
+    "proposed_solution": "Rooftop rainwater harvesting tanks on department buildings",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS221407_058",
+    "proposed_solution": "Covered corridors with side gutters in Govind Bhawan",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS253197_059",
+    "proposed_solution": "Percolation trenches along SAC path leading to pool/OAT",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS221442_060",
+    "proposed_solution": "Install first-flush diverters on roof downpipes",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS243672_061",
+    "proposed_solution": "Recharge pits near Govind canteen to absorb runoff",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS261413_062",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS212967_063",
+    "proposed_solution": "Desilt and re-slope existing drains before monsoon",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS233001_064",
+    "proposed_solution": "Percolation trenches along SAC path leading to pool/OAT",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS251893_065",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS263346_066",
+    "proposed_solution": "Rooftop rainwater harvesting tanks on department buildings",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS256971_067",
+    "proposed_solution": "Desilt and re-slope existing drains before monsoon",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS228710_068",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Very High"
+  },
+  {
+    "student_id": "RS241538_069",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS257599_070",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Very High"
+  },
+  {
+    "student_id": "RS214119_071",
+    "proposed_solution": "Recharge pits near Govind canteen to absorb runoff",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS218471_072",
+    "proposed_solution": "Desilt and re-slope existing drains before monsoon",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS224494_073",
+    "proposed_solution": "Recharge pits near Govind canteen to absorb runoff",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS257432_074",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS234628_075",
+    "proposed_solution": "Rooftop rainwater harvesting tanks on department buildings",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS246218_076",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS226929_077",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS261865_078",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "Very High"
+  },
+  {
+    "student_id": "RS242163_079",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS263030_080",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS226995_081",
+    "proposed_solution": "Rooftop rainwater harvesting tanks on department buildings",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS257015_082",
+    "proposed_solution": "Use tennis court runoff to recharge groundwater via filter pits",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS212726_083",
+    "proposed_solution": "Covered corridors with side gutters in Govind Bhawan",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS217339_084",
+    "proposed_solution": "Rooftop rainwater harvesting tanks on department buildings",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS261410_085",
+    "proposed_solution": "Rooftop rainwater harvesting tanks on department buildings",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS213563_086",
+    "proposed_solution": "Use tennis court runoff to recharge groundwater via filter pits",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS217027_087",
+    "proposed_solution": "Recharge pits near Govind canteen to absorb runoff",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS239712_088",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS254461_089",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS219662_090",
+    "proposed_solution": "Reuse harvested roof water for gardening and toilet flushing",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS242078_091",
+    "proposed_solution": "Covered corridors with side gutters in Govind Bhawan",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS262865_092",
+    "proposed_solution": "Recharge pits near Govind canteen to absorb runoff",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS224540_093",
+    "proposed_solution": "Recharge pits near Govind canteen to absorb runoff",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS249721_094",
+    "proposed_solution": "Rooftop rainwater harvesting tanks on department buildings",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS215736_095",
+    "proposed_solution": "Desilt and re-slope existing drains before monsoon",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS233807_096",
+    "proposed_solution": "Use tennis court runoff to recharge groundwater via filter pits",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS266325_097",
+    "proposed_solution": "Covered corridors with side gutters in Govind Bhawan",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS228327_098",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS263566_099",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS268284_100",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS238651_101",
+    "proposed_solution": "Percolation trenches along SAC path leading to pool/OAT",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS227410_102",
+    "proposed_solution": "Reuse harvested roof water for gardening and toilet flushing",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS215663_103",
+    "proposed_solution": "Use tennis court runoff to recharge groundwater via filter pits",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS217767_104",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS234605_105",
+    "proposed_solution": "Desilt and re-slope existing drains before monsoon",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS243731_106",
+    "proposed_solution": "Covered corridors with side gutters in Govind Bhawan",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS211166_107",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS237545_108",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS228529_109",
+    "proposed_solution": "Percolation trenches along SAC path leading to pool/OAT",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS249837_110",
+    "proposed_solution": "Use tennis court runoff to recharge groundwater via filter pits",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS241067_111",
+    "proposed_solution": "Desilt and re-slope existing drains before monsoon",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS257255_112",
+    "proposed_solution": "Desilt and re-slope existing drains before monsoon",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS265948_113",
+    "proposed_solution": "Desilt and re-slope existing drains before monsoon",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS259585_114",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS228057_115",
+    "proposed_solution": "Install first-flush diverters on roof downpipes",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS259728_116",
+    "proposed_solution": "Percolation trenches along SAC path leading to pool/OAT",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS235067_117",
+    "proposed_solution": "Reuse harvested roof water for gardening and toilet flushing",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS211425_118",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS211482_119",
+    "proposed_solution": "Install first-flush diverters on roof downpipes",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS219081_120",
+    "proposed_solution": "Recharge pits near Govind canteen to absorb runoff",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS243372_121",
+    "proposed_solution": "Install first-flush diverters on roof downpipes",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS229163_122",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS267215_123",
+    "proposed_solution": "Percolation trenches along SAC path leading to pool/OAT",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS222027_124",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS247306_125",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS264402_126",
+    "proposed_solution": "Recharge pits near Govind canteen to absorb runoff",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS248200_127",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "Very High"
+  },
+  {
+    "student_id": "RS232502_128",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS238242_129",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS226749_130",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS251579_131",
+    "proposed_solution": "Covered corridors with side gutters in Govind Bhawan",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS213084_132",
+    "proposed_solution": "Recharge pits near Govind canteen to absorb runoff",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS249357_133",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "Very High"
+  },
+  {
+    "student_id": "RS242468_134",
+    "proposed_solution": "Recharge pits near Govind canteen to absorb runoff",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS225474_135",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS261450_136",
+    "proposed_solution": "Use tennis court runoff to recharge groundwater via filter pits",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS253965_137",
+    "proposed_solution": "Recharge pits near Govind canteen to absorb runoff",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS226509_138",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS259207_139",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS247622_140",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS228043_141",
+    "proposed_solution": "Use tennis court runoff to recharge groundwater via filter pits",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS236153_142",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 1,
+    "cost_estimate_category": "Very High"
+  },
+  {
+    "student_id": "RS237140_143",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS258047_144",
+    "proposed_solution": "Percolation trenches along SAC path leading to pool/OAT",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS261753_145",
+    "proposed_solution": "Use tennis court runoff to recharge groundwater via filter pits",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS239543_146",
+    "proposed_solution": "Install first-flush diverters on roof downpipes",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS252916_147",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS222048_148",
+    "proposed_solution": "Rooftop rainwater harvesting tanks on department buildings",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS231476_149",
+    "proposed_solution": "Percolation trenches along SAC path leading to pool/OAT",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS262174_150",
+    "proposed_solution": "Covered corridors with side gutters in Govind Bhawan",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS267896_151",
+    "proposed_solution": "Install first-flush diverters on roof downpipes",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS212879_152",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS237207_153",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS238996_154",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS263194_155",
+    "proposed_solution": "Reuse harvested roof water for gardening and toilet flushing",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS226752_156",
+    "proposed_solution": "Install first-flush diverters on roof downpipes",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS253691_157",
+    "proposed_solution": "Install first-flush diverters on roof downpipes",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS269258_158",
+    "proposed_solution": "Covered corridors with side gutters in Govind Bhawan",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS256425_159",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS224621_160",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS267265_161",
+    "proposed_solution": "Rooftop rainwater harvesting tanks on department buildings",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS232574_162",
+    "proposed_solution": "Reuse harvested roof water for gardening and toilet flushing",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS225401_163",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS269328_164",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS239215_165",
+    "proposed_solution": "Reuse harvested roof water for gardening and toilet flushing",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS239551_166",
+    "proposed_solution": "Use tennis court runoff to recharge groundwater via filter pits",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS226373_167",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 1,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS242242_168",
+    "proposed_solution": "Use tennis court runoff to recharge groundwater via filter pits",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS216639_169",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS239107_170",
+    "proposed_solution": "Rooftop rainwater harvesting tanks on department buildings",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS255696_171",
+    "proposed_solution": "Desilt and re-slope existing drains before monsoon",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS249859_172",
+    "proposed_solution": "Install first-flush diverters on roof downpipes",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS234425_173",
+    "proposed_solution": "Install first-flush diverters on roof downpipes",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS252336_174",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS219058_175",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS247322_176",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS252184_177",
+    "proposed_solution": "Install first-flush diverters on roof downpipes",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS265450_178",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS225142_179",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS266144_180",
+    "proposed_solution": "Reuse harvested roof water for gardening and toilet flushing",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS234086_181",
+    "proposed_solution": "Percolation trench along LHC green gala side path",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS242813_182",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Very High"
+  },
+  {
+    "student_id": "RS246732_183",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS219125_184",
+    "proposed_solution": "Covered corridors with side gutters in Govind Bhawan",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS247546_185",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "Very High"
+  },
+  {
+    "student_id": "RS221208_186",
+    "proposed_solution": "Recharge pits near Govind canteen to absorb runoff",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS233102_187",
+    "proposed_solution": "Covered corridors with side gutters in Govind Bhawan",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS213574_188",
+    "proposed_solution": "Covered corridors with side gutters in Govind Bhawan",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS248274_189",
+    "proposed_solution": "Install first-flush diverters on roof downpipes",
+    "feasibility_rating": 5,
+    "cost_estimate_category": "Low"
+  },
+  {
+    "student_id": "RS249468_190",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS257596_191",
+    "proposed_solution": "Reuse harvested roof water for gardening and toilet flushing",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS249863_192",
+    "proposed_solution": "Reuse harvested roof water for gardening and toilet flushing",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS237739_193",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS236889_194",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "Very High"
+  },
+  {
+    "student_id": "RS267732_195",
+    "proposed_solution": "Build a campus-wide rainwater storage reservoir",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "Very High"
+  },
+  {
+    "student_id": "RS259092_196",
+    "proposed_solution": "Covered corridors with side gutters in Govind Bhawan",
+    "feasibility_rating": 4,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS217418_197",
+    "proposed_solution": "Rooftop rainwater harvesting tanks on department buildings",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS258460_198",
+    "proposed_solution": "Connect bhawan roof downpipes to underground storage tanks",
+    "feasibility_rating": 2,
+    "cost_estimate_category": "Medium"
+  },
+  {
+    "student_id": "RS239532_199",
+    "proposed_solution": "Permeable paver blocks on waterlogging-prone paths",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "High"
+  },
+  {
+    "student_id": "RS231689_200",
+    "proposed_solution": "Install first-flush diverters on roof downpipes",
+    "feasibility_rating": 3,
+    "cost_estimate_category": "Low"
+  }
+]

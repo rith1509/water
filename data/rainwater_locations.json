@@ -1,0 +1,1002 @@
+[
+  {
+    "student_id": "RL252411_001",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL221895_002",
+    "suggested_building_or_ground": "Electrical department roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL246582_003",
+    "suggested_building_or_ground": "Azad Bhawan roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL218786_004",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL235948_005",
+    "suggested_building_or_ground": "Govind Bhawan roof and canteen area",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL211480_006",
+    "suggested_building_or_ground": "Govind Bhawan roof and canteen area",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL243934_007",
+    "suggested_building_or_ground": "Sports ground near SAC",
+    "reasoning_category": "Open flat surface"
+  },
+  {
+    "student_id": "RL254129_008",
+    "suggested_building_or_ground": "Sarojini Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL245596_009",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL265504_010",
+    "suggested_building_or_ground": "Azad Bhawan roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL212943_011",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL249427_012",
+    "suggested_building_or_ground": "Tennis court area",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL248873_013",
+    "suggested_building_or_ground": "Electrical department roof",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL238658_014",
+    "suggested_building_or_ground": "Govind Bhawan roof and canteen area",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL213708_015",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Ease of maintenance"
+  },
+  {
+    "student_id": "RL258995_016",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL228334_017",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Ease of maintenance"
+  },
+  {
+    "student_id": "RL215845_018",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL257813_019",
+    "suggested_building_or_ground": "Ganga Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL226064_020",
+    "suggested_building_or_ground": "Electrical department roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL234468_021",
+    "suggested_building_or_ground": "Himalya Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL219385_022",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL215750_023",
+    "suggested_building_or_ground": "Rajiv Bhawan roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL235787_024",
+    "suggested_building_or_ground": "Cautley Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL239794_025",
+    "suggested_building_or_ground": "Cautley Bhawan roof",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL268723_026",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL233452_027",
+    "suggested_building_or_ground": "Sports ground near SAC",
+    "reasoning_category": "Open flat surface"
+  },
+  {
+    "student_id": "RL265883_028",
+    "suggested_building_or_ground": "Ganga Bhawan roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL212280_029",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL256559_030",
+    "suggested_building_or_ground": "Electrical department roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL261971_031",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL211794_032",
+    "suggested_building_or_ground": "Govind Bhawan roof and canteen area",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL246799_033",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Academic demonstration value"
+  },
+  {
+    "student_id": "RL241322_034",
+    "suggested_building_or_ground": "Tennis court area",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL269371_035",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL261592_036",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL246352_037",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL243925_038",
+    "suggested_building_or_ground": "Sports ground near SAC",
+    "reasoning_category": "Open flat surface"
+  },
+  {
+    "student_id": "RL239545_039",
+    "suggested_building_or_ground": "Electrical department roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL223444_040",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL231545_041",
+    "suggested_building_or_ground": "Sarojini Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL255382_042",
+    "suggested_building_or_ground": "Electrical department roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL231048_043",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL253083_044",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL236325_045",
+    "suggested_building_or_ground": "Ganga Bhawan roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL234905_046",
+    "suggested_building_or_ground": "Aravalli Bhawan roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL236048_047",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "High footfall visibility"
+  },
+  {
+    "student_id": "RL256235_048",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL223717_049",
+    "suggested_building_or_ground": "Tennis court area",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL252421_050",
+    "suggested_building_or_ground": "Rajiv Bhawan roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL264174_051",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL228260_052",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL228334_053",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL249364_054",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL257669_055",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL214567_056",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "High footfall visibility"
+  },
+  {
+    "student_id": "RL247651_057",
+    "suggested_building_or_ground": "Aravalli Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL224025_058",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Ease of maintenance"
+  },
+  {
+    "student_id": "RL264875_059",
+    "suggested_building_or_ground": "Govind Bhawan roof and canteen area",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL268712_060",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL211785_061",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL248652_062",
+    "suggested_building_or_ground": "Sports ground near SAC",
+    "reasoning_category": "Open flat surface"
+  },
+  {
+    "student_id": "RL235550_063",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Ease of maintenance"
+  },
+  {
+    "student_id": "RL234710_064",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Ease of maintenance"
+  },
+  {
+    "student_id": "RL215370_065",
+    "suggested_building_or_ground": "Tennis court area",
+    "reasoning_category": "Open flat surface"
+  },
+  {
+    "student_id": "RL232679_066",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Ease of maintenance"
+  },
+  {
+    "student_id": "RL215514_067",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Academic demonstration value"
+  },
+  {
+    "student_id": "RL226498_068",
+    "suggested_building_or_ground": "Rajendra Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL222241_069",
+    "suggested_building_or_ground": "Sports ground near SAC",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL238933_070",
+    "suggested_building_or_ground": "Sports ground near SAC",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL233525_071",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL252438_072",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL254184_073",
+    "suggested_building_or_ground": "Govind Bhawan roof and canteen area",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL251479_074",
+    "suggested_building_or_ground": "Ganga Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL252567_075",
+    "suggested_building_or_ground": "Govind Bhawan roof and canteen area",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL246614_076",
+    "suggested_building_or_ground": "Sports ground near SAC",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL241771_077",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL248912_078",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL238356_079",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "High footfall visibility"
+  },
+  {
+    "student_id": "RL254942_080",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL252948_081",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL268077_082",
+    "suggested_building_or_ground": "Sarojini Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL233054_083",
+    "suggested_building_or_ground": "Electrical department roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL267854_084",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL249979_085",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL235369_086",
+    "suggested_building_or_ground": "RKB roof",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL235622_087",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL224569_088",
+    "suggested_building_or_ground": "Govind Bhawan roof and canteen area",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL264819_089",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL244098_090",
+    "suggested_building_or_ground": "Sports ground near SAC",
+    "reasoning_category": "Open flat surface"
+  },
+  {
+    "student_id": "RL235209_091",
+    "suggested_building_or_ground": "Sports ground near SAC",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL212974_092",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL249775_093",
+    "suggested_building_or_ground": "Electrical department roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL236089_094",
+    "suggested_building_or_ground": "Rajiv Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL266077_095",
+    "suggested_building_or_ground": "Rajendra Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL222691_096",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL241351_097",
+    "suggested_building_or_ground": "Rajendra Bhawan roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL235295_098",
+    "suggested_building_or_ground": "Govind Bhawan roof and canteen area",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL262378_099",
+    "suggested_building_or_ground": "Sports ground near SAC",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL246754_100",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL243604_101",
+    "suggested_building_or_ground": "Cautley Bhawan roof",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL238028_102",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL239166_103",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL211848_104",
+    "suggested_building_or_ground": "Sarojini Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL263878_105",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Ease of maintenance"
+  },
+  {
+    "student_id": "RL228254_106",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL247993_107",
+    "suggested_building_or_ground": "Electrical department roof",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL258885_108",
+    "suggested_building_or_ground": "Rajiv Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL258920_109",
+    "suggested_building_or_ground": "RKB roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL239946_110",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL265570_111",
+    "suggested_building_or_ground": "Tennis court area",
+    "reasoning_category": "Open flat surface"
+  },
+  {
+    "student_id": "RL254455_112",
+    "suggested_building_or_ground": "Tennis court area",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL248669_113",
+    "suggested_building_or_ground": "RKB roof",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL223230_114",
+    "suggested_building_or_ground": "Tennis court area",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL261171_115",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL216091_116",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "High footfall visibility"
+  },
+  {
+    "student_id": "RL251493_117",
+    "suggested_building_or_ground": "Himalya Bhawan roof",
+    "reasoning_category": "Ease of maintenance"
+  },
+  {
+    "student_id": "RL227738_118",
+    "suggested_building_or_ground": "Ganga Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL215975_119",
+    "suggested_building_or_ground": "RKB roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL245129_120",
+    "suggested_building_or_ground": "Tennis court area",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL226733_121",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL241766_122",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL229764_123",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL232815_124",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "High footfall visibility"
+  },
+  {
+    "student_id": "RL215740_125",
+    "suggested_building_or_ground": "Tennis court area",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL247702_126",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL246523_127",
+    "suggested_building_or_ground": "Sarojini Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL258994_128",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "High footfall visibility"
+  },
+  {
+    "student_id": "RL217505_129",
+    "suggested_building_or_ground": "Himalya Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL227380_130",
+    "suggested_building_or_ground": "Sports ground near SAC",
+    "reasoning_category": "Open flat surface"
+  },
+  {
+    "student_id": "RL222880_131",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "High footfall visibility"
+  },
+  {
+    "student_id": "RL261444_132",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL259110_133",
+    "suggested_building_or_ground": "Govind Bhawan roof and canteen area",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL233153_134",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "High footfall visibility"
+  },
+  {
+    "student_id": "RL265294_135",
+    "suggested_building_or_ground": "Rajendra Bhawan roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL226612_136",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL226363_137",
+    "suggested_building_or_ground": "Tennis court area",
+    "reasoning_category": "Open flat surface"
+  },
+  {
+    "student_id": "RL258182_138",
+    "suggested_building_or_ground": "Rajiv Bhawan roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL234216_139",
+    "suggested_building_or_ground": "Ganga Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL218257_140",
+    "suggested_building_or_ground": "Electrical department roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL249920_141",
+    "suggested_building_or_ground": "Cautley Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL237311_142",
+    "suggested_building_or_ground": "Tennis court area",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL218134_143",
+    "suggested_building_or_ground": "RKB roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL215286_144",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL234041_145",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL247001_146",
+    "suggested_building_or_ground": "Govind Bhawan roof and canteen area",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL231719_147",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL259044_148",
+    "suggested_building_or_ground": "Aravalli Bhawan roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL238397_149",
+    "suggested_building_or_ground": "RKB roof",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL249890_150",
+    "suggested_building_or_ground": "Govind Bhawan roof and canteen area",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL211209_151",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL223187_152",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL264363_153",
+    "suggested_building_or_ground": "Tennis court area",
+    "reasoning_category": "Open flat surface"
+  },
+  {
+    "student_id": "RL239180_154",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL229139_155",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL259012_156",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Academic demonstration value"
+  },
+  {
+    "student_id": "RL221596_157",
+    "suggested_building_or_ground": "RKB roof",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL224301_158",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL252565_159",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Groundwater recharge potential"
+  },
+  {
+    "student_id": "RL234248_160",
+    "suggested_building_or_ground": "Cautley Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL211523_161",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL213999_162",
+    "suggested_building_or_ground": "Rajiv Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL248015_163",
+    "suggested_building_or_ground": "Kasturba Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL216340_164",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Ease of maintenance"
+  },
+  {
+    "student_id": "RL264834_165",
+    "suggested_building_or_ground": "Rajiv Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL231348_166",
+    "suggested_building_or_ground": "Govind Bhawan roof and canteen area",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL212466_167",
+    "suggested_building_or_ground": "Rajendra Bhawan roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL247832_168",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL246823_169",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Academic demonstration value"
+  },
+  {
+    "student_id": "RL252464_170",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL252635_171",
+    "suggested_building_or_ground": "Rajendra Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL267272_172",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "High footfall visibility"
+  },
+  {
+    "student_id": "RL221722_173",
+    "suggested_building_or_ground": "Rajiv Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL239302_174",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Academic demonstration value"
+  },
+  {
+    "student_id": "RL228781_175",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL264082_176",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL229798_177",
+    "suggested_building_or_ground": "Himalya Bhawan roof",
+    "reasoning_category": "Ease of maintenance"
+  },
+  {
+    "student_id": "RL213778_178",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Academic demonstration value"
+  },
+  {
+    "student_id": "RL254037_179",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL215552_180",
+    "suggested_building_or_ground": "LHC roof and adjoining green gala",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL226198_181",
+    "suggested_building_or_ground": "Civil Engineering department roof",
+    "reasoning_category": "Ease of maintenance"
+  },
+  {
+    "student_id": "RL222700_182",
+    "suggested_building_or_ground": "Sarojini Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL254994_183",
+    "suggested_building_or_ground": "RKB roof",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL257513_184",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL266312_185",
+    "suggested_building_or_ground": "Sports ground near SAC",
+    "reasoning_category": "Open flat surface"
+  },
+  {
+    "student_id": "RL236921_186",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL262668_187",
+    "suggested_building_or_ground": "Sports ground near SAC",
+    "reasoning_category": "Open flat surface"
+  },
+  {
+    "student_id": "RL249351_188",
+    "suggested_building_or_ground": "Cautley Bhawan roof",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL256359_189",
+    "suggested_building_or_ground": "Kasturba Bhawan roof",
+    "reasoning_category": "Ease of maintenance"
+  },
+  {
+    "student_id": "RL266253_190",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Existing downpipe infrastructure"
+  },
+  {
+    "student_id": "RL217934_191",
+    "suggested_building_or_ground": "Govind Bhawan roof and canteen area",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL222651_192",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL245350_193",
+    "suggested_building_or_ground": "Rajiv Bhawan roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL255182_194",
+    "suggested_building_or_ground": "SAC and path to pool/OAT",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL241881_195",
+    "suggested_building_or_ground": "Tennis court area",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL231474_196",
+    "suggested_building_or_ground": "Cautley Bhawan roof",
+    "reasoning_category": "Direct reuse in bhawan"
+  },
+  {
+    "student_id": "RL255945_197",
+    "suggested_building_or_ground": "Azad Bhawan roof",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL256053_198",
+    "suggested_building_or_ground": "Tennis court area",
+    "reasoning_category": "Waterlogging prevention"
+  },
+  {
+    "student_id": "RL262673_199",
+    "suggested_building_or_ground": "Main Building department roofs",
+    "reasoning_category": "Large catchment area"
+  },
+  {
+    "student_id": "RL215308_200",
+    "suggested_building_or_ground": "Govind Bhawan roof and canteen area",
+    "reasoning_category": "Direct reuse in bhawan"
+  }
+]

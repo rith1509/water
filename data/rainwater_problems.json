@@ -1,0 +1,1402 @@
+[
+  {
+    "student_id": "RP257891_001",
+    "year_of_study": 5,
+    "observed_issue": "Canteen seating area floods and stays wet for hours",
+    "severity": 5,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP212322_002",
+    "year_of_study": 1,
+    "observed_issue": "No collection system on bhawan roofs despite large terrace area",
+    "severity": 3,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP269032_003",
+    "year_of_study": 3,
+    "observed_issue": "Muddy slush around canteen makes it hard to walk in the evening",
+    "severity": 2,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP237166_004",
+    "year_of_study": 5,
+    "observed_issue": "Standing water near SAC breeds mosquitoes for days",
+    "severity": 5,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP235712_005",
+    "year_of_study": 4,
+    "observed_issue": "Path from SAC to the pool becomes completely submerged",
+    "severity": 4,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP236956_006",
+    "year_of_study": 4,
+    "observed_issue": "Path from SAC to the pool becomes completely submerged",
+    "severity": 5,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP249296_007",
+    "year_of_study": 4,
+    "observed_issue": "Leakage from upper floors drips into corridors during heavy rain",
+    "severity": 5,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP249404_008",
+    "year_of_study": 5,
+    "observed_issue": "No proper slope on the SAC-to-OAT path so rainwater just sits there",
+    "severity": 4,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP219572_009",
+    "year_of_study": 1,
+    "observed_issue": "Tennis courts stay waterlogged and unusable for 2-3 days after rain",
+    "severity": 4,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP222999_010",
+    "year_of_study": 4,
+    "observed_issue": "Clogged roof drains on bhawan terrace cause water to seep into top rooms",
+    "severity": 2,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP239980_011",
+    "year_of_study": 5,
+    "observed_issue": "No proper slope on the SAC-to-OAT path so rainwater just sits there",
+    "severity": 4,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP231151_012",
+    "year_of_study": 1,
+    "observed_issue": "Clogged roof drains on bhawan terrace cause water to seep into top rooms",
+    "severity": 2,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP225261_013",
+    "year_of_study": 4,
+    "observed_issue": "Leakage from upper floors drips into corridors during heavy rain",
+    "severity": 4,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP215752_014",
+    "year_of_study": 3,
+    "observed_issue": "Leakage from upper floors drips into corridors during heavy rain",
+    "severity": 4,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP255240_015",
+    "year_of_study": 4,
+    "observed_issue": "Muddy slush around canteen makes it hard to walk in the evening",
+    "severity": 4,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP242053_016",
+    "year_of_study": 3,
+    "observed_issue": "Huge catchment on department roofs but no harvesting tank connected",
+    "severity": 4,
+    "location": "Department roofs"
+  },
+  {
+    "student_id": "RP243397_017",
+    "year_of_study": 4,
+    "observed_issue": "Bhawan roof runoff goes directly into the sewer line",
+    "severity": 2,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP252360_018",
+    "year_of_study": 2,
+    "observed_issue": "Department roof downpipes drain straight onto road, all water wasted",
+    "severity": 3,
+    "location": "Department roofs"
+  },
+  {
+    "student_id": "RP266853_019",
+    "year_of_study": 2,
+    "observed_issue": "Drain near the canteen entrance clogs with food waste and overflows",
+    "severity": 4,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP243149_020",
+    "year_of_study": 5,
+    "observed_issue": "Corridor floor stays wet and slippery, people have fallen",
+    "severity": 4,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP256013_021",
+    "year_of_study": 5,
+    "observed_issue": "Corridor floor stays wet and slippery, people have fallen",
+    "severity": 5,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP217379_022",
+    "year_of_study": 1,
+    "observed_issue": "Students have to jump over puddles to reach morning lectures at LHC",
+    "severity": 4,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP211419_023",
+    "year_of_study": 5,
+    "observed_issue": "Standing water near SAC breeds mosquitoes for days",
+    "severity": 5,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP219152_024",
+    "year_of_study": 4,
+    "observed_issue": "No proper slope on the SAC-to-OAT path so rainwater just sits there",
+    "severity": 4,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP228104_025",
+    "year_of_study": 3,
+    "observed_issue": "Students have to jump over puddles to reach morning lectures at LHC",
+    "severity": 4,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP214202_026",
+    "year_of_study": 2,
+    "observed_issue": "Path beside the green gala turns into a stream during monsoon showers",
+    "severity": 4,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP264088_027",
+    "year_of_study": 4,
+    "observed_issue": "Muddy slush around canteen makes it hard to walk in the evening",
+    "severity": 5,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP229468_028",
+    "year_of_study": 2,
+    "observed_issue": "Department roof downpipes drain straight onto road, all water wasted",
+    "severity": 3,
+    "location": "Department roofs"
+  },
+  {
+    "student_id": "RP257784_029",
+    "year_of_study": 1,
+    "observed_issue": "Slippery moss forms on the LHC side path due to repeated waterlogging",
+    "severity": 3,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP249152_030",
+    "year_of_study": 4,
+    "observed_issue": "Water stagnates on the green gala side path for a full day after rain",
+    "severity": 3,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP242967_031",
+    "year_of_study": 5,
+    "observed_issue": "Water stagnates on the green gala side path for a full day after rain",
+    "severity": 4,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP221080_032",
+    "year_of_study": 1,
+    "observed_issue": "Bhawan roof runoff goes directly into the sewer line",
+    "severity": 4,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP263989_033",
+    "year_of_study": 1,
+    "observed_issue": "Runoff from tennis court area floods the adjoining road",
+    "severity": 3,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP259820_034",
+    "year_of_study": 2,
+    "observed_issue": "Water stagnates on the green gala side path for a full day after rain",
+    "severity": 4,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP255392_035",
+    "year_of_study": 5,
+    "observed_issue": "OAT walkway floods, events get disrupted or shifted",
+    "severity": 4,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP222737_036",
+    "year_of_study": 1,
+    "observed_issue": "Path from SAC to the pool becomes completely submerged",
+    "severity": 5,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP219300_037",
+    "year_of_study": 3,
+    "observed_issue": "Tennis courts stay waterlogged and unusable for 2-3 days after rain",
+    "severity": 3,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP225273_038",
+    "year_of_study": 3,
+    "observed_issue": "Drain near the canteen entrance clogs with food waste and overflows",
+    "severity": 5,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP211938_039",
+    "year_of_study": 1,
+    "observed_issue": "Water collects at corridor ends near the stairs with nowhere to drain",
+    "severity": 4,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP256739_040",
+    "year_of_study": 3,
+    "observed_issue": "Path from SAC to the pool becomes completely submerged",
+    "severity": 3,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP251622_041",
+    "year_of_study": 4,
+    "observed_issue": "Tennis court drainage channels are silted and blocked",
+    "severity": 3,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP262956_042",
+    "year_of_study": 3,
+    "observed_issue": "Slippery moss forms on the LHC side path due to repeated waterlogging",
+    "severity": 4,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP231944_043",
+    "year_of_study": 4,
+    "observed_issue": "Runoff from tennis court area floods the adjoining road",
+    "severity": 3,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP263004_044",
+    "year_of_study": 3,
+    "observed_issue": "No collection system on bhawan roofs despite large terrace area",
+    "severity": 2,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP256611_045",
+    "year_of_study": 2,
+    "observed_issue": "No collection system on bhawan roofs despite large terrace area",
+    "severity": 4,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP211611_046",
+    "year_of_study": 2,
+    "observed_issue": "Canteen seating area floods and stays wet for hours",
+    "severity": 4,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP226832_047",
+    "year_of_study": 4,
+    "observed_issue": "Path from SAC to the pool becomes completely submerged",
+    "severity": 4,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP224005_048",
+    "year_of_study": 5,
+    "observed_issue": "Slippery moss forms on the LHC side path due to repeated waterlogging",
+    "severity": 4,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP221382_049",
+    "year_of_study": 1,
+    "observed_issue": "Water collects at corridor ends near the stairs with nowhere to drain",
+    "severity": 5,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP233271_050",
+    "year_of_study": 1,
+    "observed_issue": "Leakage from upper floors drips into corridors during heavy rain",
+    "severity": 3,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP255345_051",
+    "year_of_study": 3,
+    "observed_issue": "Tennis courts stay waterlogged and unusable for 2-3 days after rain",
+    "severity": 3,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP214978_052",
+    "year_of_study": 4,
+    "observed_issue": "Path from SAC to the pool becomes completely submerged",
+    "severity": 4,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP246897_053",
+    "year_of_study": 2,
+    "observed_issue": "Students have to jump over puddles to reach morning lectures at LHC",
+    "severity": 5,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP236883_054",
+    "year_of_study": 4,
+    "observed_issue": "Standing water near SAC breeds mosquitoes for days",
+    "severity": 5,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP267726_055",
+    "year_of_study": 2,
+    "observed_issue": "Water collects at corridor ends near the stairs with nowhere to drain",
+    "severity": 3,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP257690_056",
+    "year_of_study": 1,
+    "observed_issue": "Drain near the canteen entrance clogs with food waste and overflows",
+    "severity": 5,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP265342_057",
+    "year_of_study": 2,
+    "observed_issue": "Drain near the canteen entrance clogs with food waste and overflows",
+    "severity": 4,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP266025_058",
+    "year_of_study": 1,
+    "observed_issue": "Department roof downpipes drain straight onto road, all water wasted",
+    "severity": 3,
+    "location": "Department roofs"
+  },
+  {
+    "student_id": "RP253589_059",
+    "year_of_study": 5,
+    "observed_issue": "No collection system on bhawan roofs despite large terrace area",
+    "severity": 5,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP236085_060",
+    "year_of_study": 1,
+    "observed_issue": "Slippery moss forms on the LHC side path due to repeated waterlogging",
+    "severity": 4,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP235838_061",
+    "year_of_study": 5,
+    "observed_issue": "Tennis courts stay waterlogged and unusable for 2-3 days after rain",
+    "severity": 2,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP261154_062",
+    "year_of_study": 4,
+    "observed_issue": "Slippery moss forms on the LHC side path due to repeated waterlogging",
+    "severity": 3,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP251483_063",
+    "year_of_study": 2,
+    "observed_issue": "No collection system on bhawan roofs despite large terrace area",
+    "severity": 2,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP219437_064",
+    "year_of_study": 1,
+    "observed_issue": "Students have to jump over puddles to reach morning lectures at LHC",
+    "severity": 2,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP253526_065",
+    "year_of_study": 2,
+    "observed_issue": "Huge catchment on department roofs but no harvesting tank connected",
+    "severity": 2,
+    "location": "Department roofs"
+  },
+  {
+    "student_id": "RP262198_066",
+    "year_of_study": 4,
+    "observed_issue": "No proper slope on the SAC-to-OAT path so rainwater just sits there",
+    "severity": 3,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP242981_067",
+    "year_of_study": 5,
+    "observed_issue": "Path from SAC to the pool becomes completely submerged",
+    "severity": 4,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP232352_068",
+    "year_of_study": 1,
+    "observed_issue": "No proper slope on the SAC-to-OAT path so rainwater just sits there",
+    "severity": 5,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP234703_069",
+    "year_of_study": 2,
+    "observed_issue": "Huge catchment on department roofs but no harvesting tank connected",
+    "severity": 4,
+    "location": "Department roofs"
+  },
+  {
+    "student_id": "RP269080_070",
+    "year_of_study": 4,
+    "observed_issue": "Standing water near SAC breeds mosquitoes for days",
+    "severity": 5,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP266710_071",
+    "year_of_study": 3,
+    "observed_issue": "Slippery moss forms on the LHC side path due to repeated waterlogging",
+    "severity": 3,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP263090_072",
+    "year_of_study": 4,
+    "observed_issue": "Corridor floor stays wet and slippery, people have fallen",
+    "severity": 3,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP245319_073",
+    "year_of_study": 2,
+    "observed_issue": "Drain near the canteen entrance clogs with food waste and overflows",
+    "severity": 3,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP223019_074",
+    "year_of_study": 3,
+    "observed_issue": "OAT walkway floods, events get disrupted or shifted",
+    "severity": 4,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP256393_075",
+    "year_of_study": 4,
+    "observed_issue": "Leakage from upper floors drips into corridors during heavy rain",
+    "severity": 4,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP266414_076",
+    "year_of_study": 1,
+    "observed_issue": "Corridor floor stays wet and slippery, people have fallen",
+    "severity": 4,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP255131_077",
+    "year_of_study": 2,
+    "observed_issue": "Tennis courts stay waterlogged and unusable for 2-3 days after rain",
+    "severity": 1,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP246550_078",
+    "year_of_study": 1,
+    "observed_issue": "Leakage from upper floors drips into corridors during heavy rain",
+    "severity": 5,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP236351_079",
+    "year_of_study": 1,
+    "observed_issue": "Path beside the green gala turns into a stream during monsoon showers",
+    "severity": 4,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP267052_080",
+    "year_of_study": 1,
+    "observed_issue": "No collection system on bhawan roofs despite large terrace area",
+    "severity": 2,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP226406_081",
+    "year_of_study": 2,
+    "observed_issue": "Path beside the green gala turns into a stream during monsoon showers",
+    "severity": 5,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP266069_082",
+    "year_of_study": 1,
+    "observed_issue": "Broken downpipes on department buildings splash water onto walls",
+    "severity": 4,
+    "location": "Department roofs"
+  },
+  {
+    "student_id": "RP241728_083",
+    "year_of_study": 2,
+    "observed_issue": "Path beside the green gala turns into a stream during monsoon showers",
+    "severity": 2,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP236628_084",
+    "year_of_study": 3,
+    "observed_issue": "Slippery moss forms on the LHC side path due to repeated waterlogging",
+    "severity": 4,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP235097_085",
+    "year_of_study": 1,
+    "observed_issue": "Water collects at corridor ends near the stairs with nowhere to drain",
+    "severity": 4,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP235159_086",
+    "year_of_study": 4,
+    "observed_issue": "Path beside the green gala turns into a stream during monsoon showers",
+    "severity": 4,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP251887_087",
+    "year_of_study": 4,
+    "observed_issue": "No proper slope on the SAC-to-OAT path so rainwater just sits there",
+    "severity": 3,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP259720_088",
+    "year_of_study": 3,
+    "observed_issue": "Tennis court drainage channels are silted and blocked",
+    "severity": 3,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP256326_089",
+    "year_of_study": 4,
+    "observed_issue": "Tennis courts stay waterlogged and unusable for 2-3 days after rain",
+    "severity": 4,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP253856_090",
+    "year_of_study": 3,
+    "observed_issue": "Standing water near SAC breeds mosquitoes for days",
+    "severity": 3,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP262742_091",
+    "year_of_study": 2,
+    "observed_issue": "Tennis court drainage channels are silted and blocked",
+    "severity": 4,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP253072_092",
+    "year_of_study": 5,
+    "observed_issue": "Students have to jump over puddles to reach morning lectures at LHC",
+    "severity": 4,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP266337_093",
+    "year_of_study": 3,
+    "observed_issue": "No proper slope on the SAC-to-OAT path so rainwater just sits there",
+    "severity": 3,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP254097_094",
+    "year_of_study": 2,
+    "observed_issue": "No collection system on bhawan roofs despite large terrace area",
+    "severity": 3,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP262000_095",
+    "year_of_study": 1,
+    "observed_issue": "Students have to jump over puddles to reach morning lectures at LHC",
+    "severity": 3,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP256843_096",
+    "year_of_study": 2,
+    "observed_issue": "OAT walkway floods, events get disrupted or shifted",
+    "severity": 3,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP263521_097",
+    "year_of_study": 4,
+    "observed_issue": "Path beside the green gala turns into a stream during monsoon showers",
+    "severity": 5,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP256966_098",
+    "year_of_study": 5,
+    "observed_issue": "Rainwater enters ground floor corridors through open sides",
+    "severity": 3,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP229326_099",
+    "year_of_study": 1,
+    "observed_issue": "Corridor floor stays wet and slippery, people have fallen",
+    "severity": 5,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP265214_100",
+    "year_of_study": 3,
+    "observed_issue": "Ankle-deep water pools in front of the canteen after even 20 minutes of rain",
+    "severity": 4,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP217927_101",
+    "year_of_study": 4,
+    "observed_issue": "Broken downpipes on department buildings splash water onto walls",
+    "severity": 2,
+    "location": "Department roofs"
+  },
+  {
+    "student_id": "RP244485_102",
+    "year_of_study": 3,
+    "observed_issue": "Students have to jump over puddles to reach morning lectures at LHC",
+    "severity": 3,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP234427_103",
+    "year_of_study": 3,
+    "observed_issue": "Leakage from upper floors drips into corridors during heavy rain",
+    "severity": 4,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP224202_104",
+    "year_of_study": 1,
+    "observed_issue": "Leakage from upper floors drips into corridors during heavy rain",
+    "severity": 3,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP263589_105",
+    "year_of_study": 1,
+    "observed_issue": "No collection system on bhawan roofs despite large terrace area",
+    "severity": 4,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP241499_106",
+    "year_of_study": 5,
+    "observed_issue": "Corridor floor stays wet and slippery, people have fallen",
+    "severity": 5,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP236983_107",
+    "year_of_study": 4,
+    "observed_issue": "Tennis court drainage channels are silted and blocked",
+    "severity": 4,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP243260_108",
+    "year_of_study": 1,
+    "observed_issue": "Water collects at corridor ends near the stairs with nowhere to drain",
+    "severity": 5,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP247183_109",
+    "year_of_study": 1,
+    "observed_issue": "Tennis courts stay waterlogged and unusable for 2-3 days after rain",
+    "severity": 5,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP232291_110",
+    "year_of_study": 4,
+    "observed_issue": "Tennis court drainage channels are silted and blocked",
+    "severity": 2,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP211686_111",
+    "year_of_study": 1,
+    "observed_issue": "Drain near the canteen entrance clogs with food waste and overflows",
+    "severity": 3,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP268486_112",
+    "year_of_study": 4,
+    "observed_issue": "Rainwater enters ground floor corridors through open sides",
+    "severity": 4,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP217419_113",
+    "year_of_study": 1,
+    "observed_issue": "Water stagnates on the green gala side path for a full day after rain",
+    "severity": 3,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP262165_114",
+    "year_of_study": 5,
+    "observed_issue": "Path from SAC to the pool becomes completely submerged",
+    "severity": 5,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP244965_115",
+    "year_of_study": 3,
+    "observed_issue": "OAT walkway floods, events get disrupted or shifted",
+    "severity": 3,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP229422_116",
+    "year_of_study": 3,
+    "observed_issue": "No collection system on bhawan roofs despite large terrace area",
+    "severity": 2,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP244090_117",
+    "year_of_study": 1,
+    "observed_issue": "Corridor floor stays wet and slippery, people have fallen",
+    "severity": 4,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP244580_118",
+    "year_of_study": 4,
+    "observed_issue": "Leakage from upper floors drips into corridors during heavy rain",
+    "severity": 4,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP234949_119",
+    "year_of_study": 5,
+    "observed_issue": "Runoff from tennis court area floods the adjoining road",
+    "severity": 4,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP253725_120",
+    "year_of_study": 5,
+    "observed_issue": "Rainwater enters ground floor corridors through open sides",
+    "severity": 4,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP253786_121",
+    "year_of_study": 4,
+    "observed_issue": "OAT walkway floods, events get disrupted or shifted",
+    "severity": 4,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP247568_122",
+    "year_of_study": 1,
+    "observed_issue": "Ankle-deep water pools in front of the canteen after even 20 minutes of rain",
+    "severity": 5,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP229597_123",
+    "year_of_study": 3,
+    "observed_issue": "Drain near the canteen entrance clogs with food waste and overflows",
+    "severity": 5,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP214580_124",
+    "year_of_study": 5,
+    "observed_issue": "Huge catchment on department roofs but no harvesting tank connected",
+    "severity": 2,
+    "location": "Department roofs"
+  },
+  {
+    "student_id": "RP268650_125",
+    "year_of_study": 5,
+    "observed_issue": "Rainwater enters ground floor corridors through open sides",
+    "severity": 4,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP241770_126",
+    "year_of_study": 3,
+    "observed_issue": "Canteen seating area floods and stays wet for hours",
+    "severity": 4,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP231714_127",
+    "year_of_study": 4,
+    "observed_issue": "Drain near the canteen entrance clogs with food waste and overflows",
+    "severity": 3,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP229969_128",
+    "year_of_study": 5,
+    "observed_issue": "Broken downpipes on department buildings splash water onto walls",
+    "severity": 4,
+    "location": "Department roofs"
+  },
+  {
+    "student_id": "RP256767_129",
+    "year_of_study": 2,
+    "observed_issue": "Slippery moss forms on the LHC side path due to repeated waterlogging",
+    "severity": 5,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP217774_130",
+    "year_of_study": 4,
+    "observed_issue": "Rainwater enters ground floor corridors through open sides",
+    "severity": 3,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP224266_131",
+    "year_of_study": 5,
+    "observed_issue": "Corridor floor stays wet and slippery, people have fallen",
+    "severity": 3,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP263767_132",
+    "year_of_study": 4,
+    "observed_issue": "Clogged roof drains on bhawan terrace cause water to seep into top rooms",
+    "severity": 5,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP229467_133",
+    "year_of_study": 2,
+    "observed_issue": "Path from SAC to the pool becomes completely submerged",
+    "severity": 5,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP233878_134",
+    "year_of_study": 4,
+    "observed_issue": "No collection system on bhawan roofs despite large terrace area",
+    "severity": 2,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP219159_135",
+    "year_of_study": 4,
+    "observed_issue": "Path beside the green gala turns into a stream during monsoon showers",
+    "severity": 5,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP261344_136",
+    "year_of_study": 3,
+    "observed_issue": "Standing water near SAC breeds mosquitoes for days",
+    "severity": 3,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP253943_137",
+    "year_of_study": 3,
+    "observed_issue": "Corridor floor stays wet and slippery, people have fallen",
+    "severity": 5,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP263875_138",
+    "year_of_study": 4,
+    "observed_issue": "Department roof downpipes drain straight onto road, all water wasted",
+    "severity": 3,
+    "location": "Department roofs"
+  },
+  {
+    "student_id": "RP229234_139",
+    "year_of_study": 4,
+    "observed_issue": "Slippery moss forms on the LHC side path due to repeated waterlogging",
+    "severity": 5,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP233418_140",
+    "year_of_study": 4,
+    "observed_issue": "Path beside the green gala turns into a stream during monsoon showers",
+    "severity": 4,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP227244_141",
+    "year_of_study": 1,
+    "observed_issue": "Huge catchment on department roofs but no harvesting tank connected",
+    "severity": 3,
+    "location": "Department roofs"
+  },
+  {
+    "student_id": "RP238271_142",
+    "year_of_study": 1,
+    "observed_issue": "Ankle-deep water pools in front of the canteen after even 20 minutes of rain",
+    "severity": 3,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP265872_143",
+    "year_of_study": 3,
+    "observed_issue": "Clogged roof drains on bhawan terrace cause water to seep into top rooms",
+    "severity": 4,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP233755_144",
+    "year_of_study": 1,
+    "observed_issue": "Leakage from upper floors drips into corridors during heavy rain",
+    "severity": 3,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP265824_145",
+    "year_of_study": 4,
+    "observed_issue": "Canteen seating area floods and stays wet for hours",
+    "severity": 3,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP227310_146",
+    "year_of_study": 2,
+    "observed_issue": "OAT walkway floods, events get disrupted or shifted",
+    "severity": 5,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP239895_147",
+    "year_of_study": 5,
+    "observed_issue": "Corridor floor stays wet and slippery, people have fallen",
+    "severity": 4,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP244974_148",
+    "year_of_study": 2,
+    "observed_issue": "Runoff from tennis court area floods the adjoining road",
+    "severity": 3,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP243048_149",
+    "year_of_study": 4,
+    "observed_issue": "Canteen seating area floods and stays wet for hours",
+    "severity": 3,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP256031_150",
+    "year_of_study": 1,
+    "observed_issue": "Runoff from tennis court area floods the adjoining road",
+    "severity": 4,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP244699_151",
+    "year_of_study": 5,
+    "observed_issue": "Runoff from tennis court area floods the adjoining road",
+    "severity": 3,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP259290_152",
+    "year_of_study": 3,
+    "observed_issue": "Runoff from tennis court area floods the adjoining road",
+    "severity": 4,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP217902_153",
+    "year_of_study": 5,
+    "observed_issue": "Clogged roof drains on bhawan terrace cause water to seep into top rooms",
+    "severity": 3,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP246836_154",
+    "year_of_study": 1,
+    "observed_issue": "OAT walkway floods, events get disrupted or shifted",
+    "severity": 4,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP248747_155",
+    "year_of_study": 2,
+    "observed_issue": "Students have to jump over puddles to reach morning lectures at LHC",
+    "severity": 4,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP212662_156",
+    "year_of_study": 1,
+    "observed_issue": "Water stagnates on the green gala side path for a full day after rain",
+    "severity": 2,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP269452_157",
+    "year_of_study": 1,
+    "observed_issue": "Muddy slush around canteen makes it hard to walk in the evening",
+    "severity": 4,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP212086_158",
+    "year_of_study": 3,
+    "observed_issue": "Standing water near SAC breeds mosquitoes for days",
+    "severity": 5,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP214124_159",
+    "year_of_study": 5,
+    "observed_issue": "Leakage from upper floors drips into corridors during heavy rain",
+    "severity": 3,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP216675_160",
+    "year_of_study": 2,
+    "observed_issue": "No collection system on bhawan roofs despite large terrace area",
+    "severity": 2,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP257940_161",
+    "year_of_study": 2,
+    "observed_issue": "Rainwater enters ground floor corridors through open sides",
+    "severity": 5,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP218238_162",
+    "year_of_study": 4,
+    "observed_issue": "Leakage from upper floors drips into corridors during heavy rain",
+    "severity": 5,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP217678_163",
+    "year_of_study": 2,
+    "observed_issue": "Water collects at corridor ends near the stairs with nowhere to drain",
+    "severity": 5,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP255064_164",
+    "year_of_study": 4,
+    "observed_issue": "Drain near the canteen entrance clogs with food waste and overflows",
+    "severity": 5,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP256038_165",
+    "year_of_study": 3,
+    "observed_issue": "Path beside the green gala turns into a stream during monsoon showers",
+    "severity": 5,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP232242_166",
+    "year_of_study": 4,
+    "observed_issue": "Bhawan roof runoff goes directly into the sewer line",
+    "severity": 4,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP236229_167",
+    "year_of_study": 4,
+    "observed_issue": "Broken downpipes on department buildings splash water onto walls",
+    "severity": 4,
+    "location": "Department roofs"
+  },
+  {
+    "student_id": "RP259581_168",
+    "year_of_study": 2,
+    "observed_issue": "Runoff from tennis court area floods the adjoining road",
+    "severity": 2,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP239639_169",
+    "year_of_study": 4,
+    "observed_issue": "Path from SAC to the pool becomes completely submerged",
+    "severity": 4,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP268237_170",
+    "year_of_study": 2,
+    "observed_issue": "OAT walkway floods, events get disrupted or shifted",
+    "severity": 5,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP255043_171",
+    "year_of_study": 1,
+    "observed_issue": "Standing water near SAC breeds mosquitoes for days",
+    "severity": 4,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP233011_172",
+    "year_of_study": 3,
+    "observed_issue": "Tennis court drainage channels are silted and blocked",
+    "severity": 3,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP262744_173",
+    "year_of_study": 3,
+    "observed_issue": "Leakage from upper floors drips into corridors during heavy rain",
+    "severity": 4,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP237183_174",
+    "year_of_study": 3,
+    "observed_issue": "No collection system on bhawan roofs despite large terrace area",
+    "severity": 3,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP238861_175",
+    "year_of_study": 1,
+    "observed_issue": "No proper slope on the SAC-to-OAT path so rainwater just sits there",
+    "severity": 5,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP265816_176",
+    "year_of_study": 5,
+    "observed_issue": "Rainwater enters ground floor corridors through open sides",
+    "severity": 4,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP245286_177",
+    "year_of_study": 4,
+    "observed_issue": "Department roof downpipes drain straight onto road, all water wasted",
+    "severity": 4,
+    "location": "Department roofs"
+  },
+  {
+    "student_id": "RP212276_178",
+    "year_of_study": 2,
+    "observed_issue": "Path from SAC to the pool becomes completely submerged",
+    "severity": 3,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP259790_179",
+    "year_of_study": 5,
+    "observed_issue": "No proper slope on the SAC-to-OAT path so rainwater just sits there",
+    "severity": 3,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP244758_180",
+    "year_of_study": 1,
+    "observed_issue": "Drain near the canteen entrance clogs with food waste and overflows",
+    "severity": 3,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP217359_181",
+    "year_of_study": 1,
+    "observed_issue": "Department roof downpipes drain straight onto road, all water wasted",
+    "severity": 4,
+    "location": "Department roofs"
+  },
+  {
+    "student_id": "RP238228_182",
+    "year_of_study": 2,
+    "observed_issue": "Drain near the canteen entrance clogs with food waste and overflows",
+    "severity": 4,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP269784_183",
+    "year_of_study": 2,
+    "observed_issue": "Clogged roof drains on bhawan terrace cause water to seep into top rooms",
+    "severity": 2,
+    "location": "Bhawan roofs"
+  },
+  {
+    "student_id": "RP257759_184",
+    "year_of_study": 4,
+    "observed_issue": "Ankle-deep water pools in front of the canteen after even 20 minutes of rain",
+    "severity": 4,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP213109_185",
+    "year_of_study": 4,
+    "observed_issue": "Path beside the green gala turns into a stream during monsoon showers",
+    "severity": 3,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP225835_186",
+    "year_of_study": 1,
+    "observed_issue": "Corridor floor stays wet and slippery, people have fallen",
+    "severity": 3,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP237404_187",
+    "year_of_study": 1,
+    "observed_issue": "Huge catchment on department roofs but no harvesting tank connected",
+    "severity": 3,
+    "location": "Department roofs"
+  },
+  {
+    "student_id": "RP215529_188",
+    "year_of_study": 5,
+    "observed_issue": "Huge catchment on department roofs but no harvesting tank connected",
+    "severity": 3,
+    "location": "Department roofs"
+  },
+  {
+    "student_id": "RP252822_189",
+    "year_of_study": 5,
+    "observed_issue": "Standing water near SAC breeds mosquitoes for days",
+    "severity": 3,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP223798_190",
+    "year_of_study": 2,
+    "observed_issue": "Slippery moss forms on the LHC side path due to repeated waterlogging",
+    "severity": 4,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP258715_191",
+    "year_of_study": 3,
+    "observed_issue": "Path from SAC to the pool becomes completely submerged",
+    "severity": 4,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP263216_192",
+    "year_of_study": 3,
+    "observed_issue": "Water stagnates on the green gala side path for a full day after rain",
+    "severity": 4,
+    "location": "LHC green gala side path"
+  },
+  {
+    "student_id": "RP234708_193",
+    "year_of_study": 3,
+    "observed_issue": "Tennis courts stay waterlogged and unusable for 2-3 days after rain",
+    "severity": 5,
+    "location": "Tennis court area"
+  },
+  {
+    "student_id": "RP247432_194",
+    "year_of_study": 1,
+    "observed_issue": "Drain near the canteen entrance clogs with food waste and overflows",
+    "severity": 3,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP242177_195",
+    "year_of_study": 4,
+    "observed_issue": "Drain near the canteen entrance clogs with food waste and overflows",
+    "severity": 5,
+    "location": "Govind canteen area"
+  },
+  {
+    "student_id": "RP261775_196",
+    "year_of_study": 1,
+    "observed_issue": "OAT walkway floods, events get disrupted or shifted",
+    "severity": 5,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP264318_197",
+    "year_of_study": 5,
+    "observed_issue": "Rainwater enters ground floor corridors through open sides",
+    "severity": 5,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP232536_198",
+    "year_of_study": 3,
+    "observed_issue": "OAT walkway floods, events get disrupted or shifted",
+    "severity": 2,
+    "location": "SAC outside path leading to pool/OAT"
+  },
+  {
+    "student_id": "RP254586_199",
+    "year_of_study": 1,
+    "observed_issue": "Water collects at corridor ends near the stairs with nowhere to drain",
+    "severity": 4,
+    "location": "Govind Bhawan corridors"
+  },
+  {
+    "student_id": "RP216607_200",
+    "year_of_study": 3,
+    "observed_issue": "Leakage from upper floors drips into corridors during heavy rain",
+    "severity": 4,
+    "location": "Govind Bhawan corridors"
+  }
+]
